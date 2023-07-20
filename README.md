@@ -10,6 +10,7 @@
 * [요즘IT] (https://yozm.wishket.com/magazine/)
 * [디스콰이엇] (https://disquiet.io/?sort=popular&type=all&topic=development&period=week)
 * [F-lab] (https://f-lab.kr/blog)
+* [flab-github] (https://github.com/f-lab-edu)
 * [용감한 사람들] (https://github.com/brave-people/Awesome-Dev-Contents)
 * [블로그] (https://covenant.tistory.com/265)
 * https://covenant.tistory.com/273
