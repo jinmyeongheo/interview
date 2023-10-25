@@ -14,3 +14,8 @@
 * [용감한 사람들] (https://github.com/brave-people/Awesome-Dev-Contents)
 * [블로그] (https://covenant.tistory.com/265)
 * https://covenant.tistory.com/273
+### 책
+* [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 (이동욱)] : 시큐리티와 스프링의 테스트코드 동기화, MockMvc 테스트코드
+* [React.js, 스프링 부트, AWS로 배우는 웹 개발 101 (김다정)] : JSON을 통한 인증인가 처리 방법 
+### 강의
+* [스프링부트 시큐리티 & JWT 강의] : Oauth2.0, JWT 2가지방법으로 인증인가구현
