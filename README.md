@@ -12,7 +12,9 @@
 * [F-lab] (https://f-lab.kr/blog)
 * [flab-github] (https://github.com/f-lab-edu)
 * [용감한 사람들] (https://github.com/brave-people/Awesome-Dev-Contents)
-* 
+*
+* https://github.com/jobhope/TechnicalNote
+* https://github.com/gyoogle/tech-interview-for-developer
 * https://github.com/ksundong/backend-interview-question
 * https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 * 
